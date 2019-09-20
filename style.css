@@ -9,3 +9,10 @@ i {
 nav {
     background-color: #5a663170;
 }
+
+.carousel-caption {
+    border-radius: 5px;
+    background-color: #d3d3d340;
+    bottom: 40%;
+    color: #ffffffff;
+}
