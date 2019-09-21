@@ -1,5 +1,5 @@
 img {
-    height: 560px;
+    height: 680px;
     
 }
 i {
@@ -15,4 +15,8 @@ nav {
     background-color: #d3d3d340;
     bottom: 40%;
     color: #ffffffff;
+}
+.footer {
+    height: 35px;
+    background-color: #5a663170;
 }
