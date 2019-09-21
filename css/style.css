@@ -1,0 +1,22 @@
+img {
+    height: 680px;
+    
+}
+i {
+    padding-right: 15px;
+}
+
+nav {
+    background-color: #5a663170;
+}
+
+.carousel-caption {
+    border-radius: 5px;
+    background-color: #d3d3d340;
+    bottom: 40%;
+    color: #ffffffff;
+}
+.footer {
+    height: 35px;
+    background-color: #5a663170;
+}
