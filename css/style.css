@@ -1,6 +1,6 @@
 img {
-    height: 680px;
-    
+    height: 860px;
+    width: 100%;
 }
 i {
     padding-right: 15px;
@@ -19,4 +19,10 @@ nav {
 .footer {
     height: 35px;
     background-color: #5a663170;
+}
+
+@media screen and (max-width: 1200px) {
+    img {
+        height: 690px;
+    }
 }
