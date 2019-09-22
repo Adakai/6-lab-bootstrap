@@ -21,8 +21,8 @@ nav {
     background-color: #5a663170;
 }
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 1400px) {
     img {
-        height: 690px;
+        height: 675px;
     }
 }
